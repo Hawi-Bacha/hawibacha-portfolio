@@ -1,7 +1,7 @@
-🌟 Complete Portfolio Website Using HTML, CSS & JavaScript 🌟
+🌟 My Personal Portfolio Website | HTML, CSS & JavaScript 🌟
 
-A fully responsive, modern, and clean Portfolio Website built using HTML, CSS, and JavaScript.
-Designed to help you showcase your skills, projects, experience, and services in a professional and visually appealing way.
+This is my fully responsive and modern personal portfolio website, built using HTML, CSS, and JavaScript.
+I created this website to showcase my skills, projects, and experience in a clean, minimal, and professional way.
 
 🚀 Live Demo
 
