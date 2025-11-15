@@ -1,7 +1,8 @@
-# 🌟 Complete Portfolio Website Using HTML & CSS 🌟  
-A fully responsive and modern portfolio website built with only HTML and CSS. Perfect for showcasing your projects and skills!  
+🌟 Complete Portfolio Website Using HTML, CSS & JavaScript 🌟
 
-## 🚀 DEMO  
-🔗 [Live Demo]: https://www.procoder09.com/yt-Projects/portfolio-projects/Complete-Adam-Portfolio/
-🔗 [Download ]:
-"# hawibacha-portfolio" 
+A fully responsive, modern, and clean Portfolio Website built using HTML, CSS, and JavaScript.
+Designed to help you showcase your skills, projects, experience, and services in a professional and visually appealing way.
+
+🚀 Live Demo
+
+🔗 https://hawibacha-portfolio.vercel.app/
